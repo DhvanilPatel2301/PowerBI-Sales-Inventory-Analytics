@@ -1,10 +1,27 @@
-# Sales and Inventory Analysis with PowerBI
+<h1 align="center">Power BI Sales & Inventory Analytics</h1>
+<h3 align="center">A Data-Driven Solution for Performance Tracking</h3>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Data_Analysis-0052CC?style=for-the-badge&logo=data&logoColor=white" alt="Data Analysis"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Dashboarding-4CAF50?style=for-the-badge&logo=dashboard&logoColor=white" alt="Dashboarding"></a>
+</p>
 
 https://github.com/DhvanilPatel2301/Sales_Dashboard_Data_Test-Dhvanil-/assets/119676039/c96eae0e-1455-4f9f-8fe7-a661fcae5796
 
-📊 Dashboard created on Power BI.
 
-I've transformed raw data into a visually captivating dashboard, offering comprehensive insights tailored for users to navigate through sales and inventory analysis effortlessly.
+## 🚀 The Business Challenge
+
+Previously, decision-makers faced significant friction due to raw data formats:
+
+<div align="center">
+
+| 📉 The Problem (Before) | 📈 The Solution (After) |
+| :--- | :--- |
+| **Data Silos:** Sales and inventory numbers were trapped in static spreadsheets.<br><br>**Slow Decision Making:** Identifying top-selling products required manual pivot tables. | **Interactive Visuals:** Dynamic dashboards provide an instant snapshot of business health.<br><br>**Trend Identification:** Automated visual tracking of monthly sales growth and inventory bottlenecks. |
+
+</div>
+
 
 ## TASK-01 Sales Analysis:
 
